@@ -25,3 +25,30 @@ html {
   font-size: 1rem;
   padding: 0.66rem;
 }
+
+.banner {
+  height: 25rem;
+  background-image: url("../images/moto.jpeg");
+}
+
+.headline {
+  top: 9rem;
+  position: relative;
+  padding: 2rem 3rem;
+  width: 20rem;
+  background-color: black;
+  color: white;
+}
+
+h1, h4 {
+  font-weight: bold;
+}
+
+.headline h1 {
+  margin: 0.25rem 0;
+  font-size: 2rem;
+}
+
+.headline h4 {
+  font-size: 1rem;
+}
