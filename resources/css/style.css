@@ -112,3 +112,10 @@ nav ul {
     background-color: black;
     color: white;
 }
+
+footer {
+  margin-top: 4rem;
+  padding: 5rem 0;
+  background-color: black;
+  color: white;
+}
