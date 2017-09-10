@@ -95,3 +95,20 @@ nav ul {
   color: white;
   text-align: center;
 }
+
+.general-info {
+  display: flex;
+  justify-content: space-between;
+  margin: 3rem 0 0;
+}
+
+.info {
+  width: 35%;
+}
+
+.heading {
+    display: block;
+    padding: 1rem 0px 1rem 2rem;
+    background-color: black;
+    color: white;
+}
